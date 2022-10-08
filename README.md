@@ -4,7 +4,7 @@
 
 
 
-## Hi, I'm [Muhammad Bilal!](https://mohammadbilal.me) 👋
+## Hi, I'm [Muhammad Bilal!]() 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbilal-x&label=Views&color=blue&style=plastic" alt="mbilal-x" /> </p>
 
@@ -12,7 +12,7 @@
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> -->
 
-<a href="https://linkedin.com/in/muhammadbilal">
+<a href="https://www.linkedin.com/in/muhammad-bilal-14b854207">
   <img align="left" alt="mbilal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/mbilal-x">
