@@ -55,10 +55,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>     -->
 
 <a href="https://github.com/mbilal-x">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbilal-x&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbilal-x&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/mbilal-x">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mbilal-x&show_icons=true&theme=darkt&line_height=27" alt="mbilal's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mbilal-x&show_icons=true&theme=dark&line_height=27" alt="mbilal's github stats"/>
 </a>
 <a href="https://github.com/mbilal-x">
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbilal-x&theme=dark&line_height=27" alt="mbilal's github streaks"/>
