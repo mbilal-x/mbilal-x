@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Bilal
-- 👀 I'm a junior frontend web developer
-- 🌱 I’m in the process of getting Bachelors in Computer Science
+- 👀 I a tech student
+- 🌱 I’m in the process of getting Bachelor in Computer Science
 
 
 
