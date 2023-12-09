@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Bilal
-- 👀 I a tech student
-- 🌱 I’m in the process of getting Bachelor in Computer Science
+- 👀 I am a tech student
+- 🌱 I'm a Computer Science Undergraduate Student. I'm currently enrolled in 7th semester.
 
 
 
